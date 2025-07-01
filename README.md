@@ -1,0 +1,1 @@
+This is the CAMB code from Rayleigh branch. The constant.F90 has been updated with changing electron mass and Thomson scattering. Currently the code could be installed using RecFast. The problem when installing using CosmoRec arises since one subroutine ("Recombination_rayleigh_eff(a)") is missing.
